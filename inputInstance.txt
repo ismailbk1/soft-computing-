@@ -1,0 +1,7 @@
+15         // Nombre de clients
+1 25 40    // Coordonnées et demande du client 1
+2 45 35    // Coordonnées et demande du client 2
+...
+0 40 50    // Dépôt (point de départ et fin)
+100        // Capacité des véhicules
+3          // Nombre de véhicules
