@@ -1,0 +1,9 @@
+problem_set_name: A-n54-k7, time: 152.6875 seconds, generations: 10000, cxpb: 0.85, mutpb: 0.15, cx_algorithm: cycle_xo, mut_algorithm: inversion_mut, 
+Route #1: 25 17 28 19 47 53 51 12
+Route #2: 20 23 38 3 48 21 26
+Route #3: 44 4 36 37 8 42 35 33 49 14 18 16
+Route #4: 46 27 34 15 31 22 43
+Route #5: 9 39 30 41 50 6 40
+Route #6: 45 2 54 11 32
+Route #7: 10 7 24 52 29 13 5
+Cost 1691
